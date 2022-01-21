@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: 'Fuzzy Bubbles', cursive; */
+  /* font-family: 'Corinthia', cursive; */
+  
+  font-family: 'Luxurious Roman', cursive;
+}
+body{
+  background-color: rgba(234, 243, 240, 0.089);
+  display: flex;
+  justify-content: center;
+}
+
+
+
